@@ -1,4 +1,4 @@
-👨‍💻 ##Passionate Computer Science Student & Tech Enthusiast
+👨‍💻 Passionate Computer Science Student & Tech Enthusiast
 
 👋 Hello There! I'm Ashfaq, a passionate computer science student with a knack for problem-solving and a love for exploring the vast realms of technology.
 
