@@ -11,4 +11,4 @@
 🌟 Let's connect and collaborate on exciting projects! Together, let's build, innovate, and make a positive impact on the world through technology.
 
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/devmaniac1)
