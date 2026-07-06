@@ -8,11 +8,11 @@
 
 ## 👋 About Me
 
-🎓 Computer Science graduate (Class of 2026 — *edit to your actual year*), now turning four years of coursework and side projects into production-ready software.
+🎓 Computer Science graduate (Class of 2026), now turning four years of coursework and side projects into production-ready software.
 
 💻 I build with the **MERN stack**, Java, and Python — and I break things (safely) with penetration testing to understand how to build them more securely.
 
-🚀 **Currently:** open to Software Engineer / Full-Stack Developer roles — *(swap this line for "working at X as Y" if you're employed)*
+🚀 **Currently:** Working at Aventude as Software Engineer
 
 📫 Reach me on [LinkedIn](https://linkedin.com/in/ashfaq-farleen) or open an issue on any of my repos.
 
@@ -70,7 +70,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [Project One](https://github.com/devmaniac1) | One-line impact statement — what it does, who it's for | React · Node · MongoDB |
+| [Dealsbuzz](https://dealsbuzz.lk) | One-line impact statement — what it does, who it's for | React · Node · MongoDB |
 | [Project Two](https://github.com/devmaniac1) | One-line impact statement | Java · Spring |
 | [Project Three](https://github.com/devmaniac1) | One-line impact statement | Python · Pen-testing |
 
