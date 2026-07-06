@@ -64,13 +64,10 @@
 
 ## 📌 Featured Projects
 
-<div align="center">
 | Project | Description | Stack |
 |---|---|---|
 | [Dealsbuzz](https://dealsbuzz.lk) | Crocs e-commerce platform with admin dashboard, email service, and order management | ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cron](https://img.shields.io/badge/Cron-4A90E2?style=for-the-badge) |
 | [LeadTech Bahrain](https://www.leadtechbh.com/) | Marketing site for a Bahrain-based design/marketing/tech agency | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) |
- 
-</div>
 
 <br>
 
