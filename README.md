@@ -68,8 +68,8 @@
   
 | Project | Description | Stack |
 |---|---|---|
-| [Dealsbuzz](https://dealsbuzz.lk) | Crocs Selling online website with admin dashboard + Email + Order Service | Next.js · Express · PostgresSQL · Vercel · Crons |
-| [LeadTech Bahrain](https://www.leadtechbh.com/) | Marketing site for a Bahrain-based design/marketing/tech agency | React.js · .NET · PostgresSQL · Azure |
+| [Dealsbuzz](https://dealsbuzz.lk) | Crocs Selling online website with admin dashboard + Email + Order Service | Next.js · ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) · PostgresSQL · ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) · Crons |
+| [LeadTech Bahrain](https://www.leadtechbh.com/) | Marketing site for a Bahrain-based design/marketing/tech agency | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) · ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) · PostgresSQL · Azure |
  
 </div>
 
