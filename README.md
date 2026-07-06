@@ -64,16 +64,13 @@
 
 ## 📌 Featured Projects
 
-> *Replace these three with your strongest repos — this section does more for a recruiter than any stats badge below it.*
-
 <div align="center">
-
+  
 | Project | Description | Stack |
 |---|---|---|
-| [Dealsbuzz](https://dealsbuzz.lk) | One-line impact statement — what it does, who it's for | React · Node · MongoDB |
-| [Project Two](https://github.com/devmaniac1) | One-line impact statement | Java · Spring |
-| [Project Three](https://github.com/devmaniac1) | One-line impact statement | Python · Pen-testing |
-
+| [Dealsbuzz](https://dealsbuzz.lk) | Crocs Selling online website with admin dashboard + Email + Order Service | Next.js · Express · PostgresSQL · Vercel · Crons |
+| [LeadTech Bahrain](https://www.leadtechbh.com/) | Marketing site for a Bahrain-based design/marketing/tech agency | React.js · .NET · PostgresSQL · Azure |
+ 
 </div>
 
 <br>
